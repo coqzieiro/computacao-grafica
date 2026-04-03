@@ -1,6 +1,6 @@
-# Computação Gráfica - Projeto 1: Astronauta no Espaço 🚀
+# Computação Gráfica - Projeto 1: Astronauta no Espaço
 
-Projeto desenvolvido para a disciplina de Computação Gráfica (SCC0250) do ICMC-USP.
+Projeto desenvolvido para a disciplina de Computação Gráfica do ICMC-USP.
 
 ## Descrição
 
